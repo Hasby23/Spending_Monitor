@@ -63,7 +63,7 @@ An Android application built with **Jetpack Compose** to capture, track, and fil
    ```
 
 4. **Run on Device or Emulator:**
-    - Deploy the app to a connected Android device or emulator.
+    - Deploy the app to a connected Android device.
 
 ---
 
