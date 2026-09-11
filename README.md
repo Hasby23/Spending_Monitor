@@ -89,7 +89,7 @@ If background notification tracking stops unexpectedly on OEM ROMs:
 ## 📁 Project Structure
 
 ```
-app/src/main/java/com/example/testspendingmonitor/
+app/src/main/java/com/example/spendingmonitor/
 ├── MainActivity.kt                     # Entry activity with bottom navigation
 ├── NotificationTrackerService.kt       # NotificationListenerService capturing notifications
 ├── KeepAliveService.kt                 # Foreground service maintaining process lifecycle
