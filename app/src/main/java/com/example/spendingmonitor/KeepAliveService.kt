@@ -20,7 +20,7 @@ class KeepAliveService : Service() {
         val notification = NotificationCompat.Builder(this, CHANNEL_ID)
             .setContentTitle("Listening for notifications")
             .setContentText("Running in the background")
-            .setSmallIcon(R.drawable.ic_dialog_info) // replace with your own icon
+            .setSmallIcon(R.drawable.ic_dialog_info)
             .setPriority(NotificationCompat.PRIORITY_MIN)
             .setOngoing(true)
             .build()
