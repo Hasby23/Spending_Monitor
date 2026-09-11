@@ -50,7 +50,7 @@ An Android application built with **Jetpack Compose** to capture, track, and fil
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd TestSpendingMonitor
+   cd SpendingMonitor
    ```
 
 2. **Open in Android Studio:**
