@@ -4,7 +4,7 @@ An Android application built with **Jetpack Compose** to capture, track, and fil
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 - **Notification Listener (`NotificationTrackerService`)**
     - Listens to incoming system notifications in real time.
@@ -28,7 +28,7 @@ An Android application built with **Jetpack Compose** to capture, track, and fil
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## Tech Stack & Architecture
 
 - **Language:** [Kotlin](https://kotlinlang.org/) (2.2.x)
 - **UI Framework:** [Jetpack Compose](https://developer.android.com/jetpack/compose)
@@ -37,7 +37,7 @@ An Android application built with **Jetpack Compose** to capture, track, and fil
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -62,12 +62,12 @@ An Android application built with **Jetpack Compose** to capture, track, and fil
    ./gradlew assembleDebug
    ```
 
-4. **Run on Device or Emulator:**
+4. **Run on Device:**
     - Deploy the app to a connected Android device.
 
 ---
 
-## 🔑 Permissions & OEM Settings
+## Permissions & OEM Settings
 
 ### Required Permissions
 
@@ -86,7 +86,7 @@ If background notification tracking stops unexpectedly on OEM ROMs:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 app/src/main/java/com/example/spendingmonitor/
